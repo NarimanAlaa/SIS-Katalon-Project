@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gender_List</name>
+   <tag></tag>
+   <elementGuidId>13a1d062-fcd4-478a-af5f-e578f451ad68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cb832dc5-f355-4e15-8068-353b5cbd342b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-ListBox z-ListBoxWithDictionary z-MandatoryAttribute</value>
+      <webElementGuid>24f2f2bc-e39a-4097-8db4-d94cea68c9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MaleFemale</value>
+      <webElementGuid>1c79e051-c225-4a85-aa80-92571b1caaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-ScrollPage z-Workspace&quot;]/div[@class=&quot;z-Scroll&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel noWrap zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowHorizontalPanel zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanelWithTitle&quot;]/select[@class=&quot;z-ListBox z-ListBoxWithDictionary z-MandatoryAttribute&quot;]</value>
+      <webElementGuid>79aa4ac5-8db4-462f-bc00-6cffa957ebc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::select[1]</value>
+      <webElementGuid>11feb3a8-fa4d-450d-9852-28147dc1cd19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Country'])[1]/following::select[2]</value>
+      <webElementGuid>d0c06af2-4a8e-4ba1-b5d7-d17e5ce250cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>f64456b3-470b-43b1-845e-521ce20b9f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/preceding::select[2]</value>
+      <webElementGuid>3574148e-1e7f-404e-ab75-13a7a0426647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>c1baec25-dd9a-4e91-9e12-9b8ed26ad0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'MaleFemale' or . = 'MaleFemale')]</value>
+      <webElementGuid>6d4547fb-651d-4693-9466-a2d04d8cf61d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

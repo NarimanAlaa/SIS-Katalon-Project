@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddFamilyLink_Buttton</name>
+   <tag></tag>
+   <elementGuidId>5d17a096-934f-4add-bfda-1bcf554b86e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.z-ImageButton.z-TableTreeItemImageButtonColumnValue-Image.z-TableTreeItemImageButtonColumnValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@title='Add Family Link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>462f9106-476e-4220-a0ad-d2223fce5639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/plus.png</value>
+      <webElementGuid>99777a1b-5032-4fb3-bdfb-44abeeb0c529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> z-ImageButton z-TableTreeItemImageButtonColumnValue-Image z-TableTreeItemImageButtonColumnValue</value>
+      <webElementGuid>2025df51-cdd9-4524-ab98-fd62f9c66bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add Family Link</value>
+      <webElementGuid>2e21f3b9-6c17-4581-9a53-c9974d7aca94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel z-Workspace&quot;]/div[@class=&quot;zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth zrl-FlexUseAvailableVertical&quot;]/div[@class=&quot;cellTreeWidget&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;cellTreeItem cellTreeTopItem cellTreeSelectedItem&quot;]/div[@class=&quot;cellTreeItem cellTreeItemImageValue cellTreeTopItemImageValue&quot;]/div[@class=&quot;cellTreeItemValue&quot;]/div[@class=&quot;z-TreeItem-PersonTypeLevel z-TableTreeRow z-TableTreeItemRowEven z-TableTreeItemSelected&quot;]/div[@class=&quot;z-VertAlignMiddle z-TableTreeCell z-TableTreeImageButtonCellContainer&quot;]/img[@class=&quot;z-ImageButton z-TableTreeItemImageButtonColumnValue-Image z-TableTreeItemImageButtonColumnValue&quot;]</value>
+      <webElementGuid>ba0fbd5a-d051-4c42-b1c8-90ba3e1dfaf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@title='Add Family Link']</value>
+      <webElementGuid>0f6763be-0326-4169-b757-60e55628b746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/img</value>
+      <webElementGuid>93d53c43-52fd-49ea-819c-19120a4e4bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/plus.png' and @title = 'Add Family Link']</value>
+      <webElementGuid>cfc4b9e4-24bf-4c4e-893e-5fb3fa522144</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

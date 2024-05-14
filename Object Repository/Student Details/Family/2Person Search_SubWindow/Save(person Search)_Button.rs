@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Save(person Search)_Button</name>
+   <tag></tag>
+   <elementGuidId>2cf61048-131f-41f9-b341-e537a5853c11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.z-DialogBoxContent > div > div.z-FlowVerticalPanel > div.z-FlowVerticalPanel > div.z-FlowHorizontalPanel.z-DialogActionButtonPanel > button.z-TextButton.z-SuccessTextButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[30]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e679152-c55b-478d-b5cf-0e940676cda5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab1ef95b-7110-4f39-b02a-82ef086f481a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-TextButton z-SuccessTextButton</value>
+      <webElementGuid>424db248-15e8-4354-86e1-33b022baba42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>4187dbd5-6eeb-41e1-9bce-b8137f5ac3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-DialogBoxContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowHorizontalPanel z-DialogActionButtonPanel&quot;]/button[@class=&quot;z-TextButton z-SuccessTextButton&quot;]</value>
+      <webElementGuid>51ea2161-77f5-4227-a27e-2199e574e88e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[30]</value>
+      <webElementGuid>943b4895-7496-447e-b7b6-eb9506888291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phones'])[1]/following::button[1]</value>
+      <webElementGuid>6035a880-2e10-4de9-bf22-8026f1b33172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Date'])[1]/following::button[1]</value>
+      <webElementGuid>6364b465-96d5-4b06-be91-80dd4c648105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::button[1]</value>
+      <webElementGuid>bbebe954-fb10-4da2-b5e5-3f2b73cdcb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>2b35df94-c8b4-4afd-b4d6-4e666a4e79dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>7babaa23-7431-41ca-8551-5811600af206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

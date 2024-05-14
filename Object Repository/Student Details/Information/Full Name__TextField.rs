@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Full Name__TextField</name>
+   <tag></tag>
+   <elementGuidId>ea21f995-4f39-430c-9a5c-275428e05c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.z-TextBox.z-TextBoxPersonIdentity</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>808948e9-4384-4b94-8932-506f03a9f83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cba81ec2-0700-4fd9-96d0-3751a4f7e62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-TextBox z-TextBoxPersonIdentity</value>
+      <webElementGuid>214c56c1-2a39-449d-854c-a1f1c9156141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>rtl</value>
+      <webElementGuid>e009ab51-14b4-4d4d-a1b9-c9b2b3d5337a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-ScrollPage z-Workspace&quot;]/div[@class=&quot;z-Scroll&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel noWrap zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanelWithTitle&quot;]/input[@class=&quot;z-TextBox z-TextBoxPersonIdentity&quot;]</value>
+      <webElementGuid>579e0529-f3d4-4c1b-bd95-3bfbe684eee4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>dba1ceb6-a715-4bb5-b5d5-397d676d15e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/input</value>
+      <webElementGuid>e9e29dad-769f-4f9c-a634-829894e28cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>64c196fd-19b9-4913-877b-cf36597b9c40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

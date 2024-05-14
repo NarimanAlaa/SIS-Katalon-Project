@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Birth Date_DatePicker</name>
+   <tag></tag>
+   <elementGuidId>429ac291-a4a1-428d-8ba6-9bbf954407f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.z-DateBox.z-MandatoryAttribute</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>74aa7e77-1822-484c-9185-12e4c3abaa3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e267b327-3882-48e2-a695-61eeab15bd79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-DateBox z-MandatoryAttribute</value>
+      <webElementGuid>bd7dbb76-9001-43b1-9692-dec38d3cf64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-DialogBoxContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;zrl-FlexVertical z-Workspace&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;zrl-FlexUseAvailableVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth z-OverflowAuto z-DisplayBlock&quot;]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel noWrap zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowHorizontalPanel zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowHorizontalPanel zrl-FlexHorizontal&quot;]/div[@class=&quot;z-FlowVerticalPanelWithTitle&quot;]/input[@class=&quot;z-DateBox z-MandatoryAttribute&quot;]</value>
+      <webElementGuid>41488378-0b83-450c-a0b9-2ca28ae2ebcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[26]</value>
+      <webElementGuid>8a02ad69-29aa-4d1f-ba09-af93fe35e3b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/input</value>
+      <webElementGuid>0a293fc6-5f84-4d18-a77c-cb2ce8c7c123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>d8337ace-8288-4ccf-9825-94a807c1ee97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

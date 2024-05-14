@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Issue Place_TextField</name>
+   <tag></tag>
+   <elementGuidId>165c3564-e37b-4d89-80eb-7c86ac4810e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[53]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d3df297d-43ee-4680-99b2-28455e0d4243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c2bca548-8a15-479b-b075-7c82725adb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-TextBox</value>
+      <webElementGuid>01e8c81f-eba0-46f9-ac2e-149e4ae70a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-DialogBoxContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-ScrollPage z-Workspace&quot;]/div[@class=&quot;z-Scroll&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanelWithTitle&quot;]/input[@class=&quot;z-TextBox&quot;]</value>
+      <webElementGuid>03ea1233-6660-4dd5-8061-8b9d4b712b5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[53]</value>
+      <webElementGuid>d11b9a19-1f6a-421a-b6d5-ccd50849ea51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[5]/input</value>
+      <webElementGuid>c9a81517-2c68-4f98-b9c5-2e37ffac0d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>f6b07fc7-4b12-4632-9b36-5081c950cab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Months_List</name>
+   <tag></tag>
+   <elementGuidId>cf08035f-462e-4364-b602-df67d6a05f8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::select[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.datePickerMonth > select.gwt-ListBox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b15ebe5b-2f84-4453-bc1d-57ed9288726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-ListBox</value>
+      <webElementGuid>d49ad479-d566-4946-9bfd-051fc9104a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JanFebMarAprMayJunJulAugSepOctNovDec</value>
+      <webElementGuid>e96b9fe3-c4c5-41ef-913c-4aa7113c9239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;dateBoxPopup z-IndexTopMost&quot;]/div[@class=&quot;popupContent&quot;]/table[@class=&quot;gwt-DatePicker&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;datePickerMonthSelector&quot;]/tbody[1]/tr[1]/td[@class=&quot;datePickerMonth&quot;]/select[@class=&quot;gwt-ListBox&quot;]</value>
+      <webElementGuid>f2435bb1-3b1e-45e9-bb57-d517733827f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::select[2]</value>
+      <webElementGuid>a0b8d9cb-ffc8-46ff-be96-a0fb31b95a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/following::select[2]</value>
+      <webElementGuid>c9f5a434-e503-48e5-9448-8add6ed525f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/preceding::select[1]</value>
+      <webElementGuid>746bcf72-c848-4747-a536-31c584169e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='»'])[1]/preceding::select[1]</value>
+      <webElementGuid>6a5b9015-ecf7-4353-a9f5-bd104e7dc4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>ff253f03-646a-4486-b6a4-44f318bea615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'JanFebMarAprMayJunJulAugSepOctNovDec' or . = 'JanFebMarAprMayJunJulAugSepOctNovDec')]</value>
+      <webElementGuid>699e6afe-20f9-4ed4-87e7-b6fcb5330837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

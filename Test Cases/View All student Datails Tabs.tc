@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As admin I verify that user can view and access all student details tabs &#xd;
+(Information-Family-Attendance-GradeBook-EnrollmentHistory-Documents-AdditionalInformation)</description>
+   <name>View All student Datails Tabs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a7abdf-fb15-455a-acee-b3bb7e178e1d</testCaseGuid>
+</TestCaseEntity>

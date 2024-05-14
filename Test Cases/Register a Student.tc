@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As Admin I verify that user can register/create new students by filling all the needed fields in the Student Identity Subwindow and making assertion that all data of the created student is saved in a correct way</description>
+   <name>Register a Student</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c31cc88-0ee4-44b3-9f25-e990d37ad9e6</testCaseGuid>
+</TestCaseEntity>

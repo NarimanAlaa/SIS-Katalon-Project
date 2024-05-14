@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Information_Tab</name>
+   <tag></tag>
+   <elementGuidId>ae6cbe95-e95d-4c4f-b6d3-43a8fab43045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.z-TextButton.z-StepsButtonPanelSelected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[19]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07e8c4cc-6f66-47c4-bbb2-5aaac32e619d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f9916b2-ef71-4b29-b8b9-74b42a0f00a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-TextButton z-StepsButtonPanelSelected</value>
+      <webElementGuid>033d0903-4517-4557-9f2b-36869c9522c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Information</value>
+      <webElementGuid>12c03748-b698-4fd4-8dc5-f11125fe3d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel z-NavigationPanel&quot;]/div[@class=&quot;gwt-TabLayoutPanel&quot;]/div[3]/div[@class=&quot;gwt-TabLayoutPanelContentContainer&quot;]/div[4]/div[@class=&quot;z-FlowVerticalPanel z-NavigationPanelTabContent z-NavigationPanelTabNewLayOutBottomUnset gwt-TabLayoutPanelContent&quot;]/div[@class=&quot;z-ScenarioStepButtonPanel&quot;]/button[@class=&quot;z-TextButton z-StepsButtonPanelSelected&quot;]</value>
+      <webElementGuid>a5c9da82-130c-4303-a429-97e0187a9734</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[19]</value>
+      <webElementGuid>8481157c-4bbe-4771-9bb1-c7ec6c04ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::button[1]</value>
+      <webElementGuid>09581405-8f42-4a98-b6e0-276d1846b9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='navigate_before'])[1]/following::button[1]</value>
+      <webElementGuid>f9b01a8b-21ba-4daf-a5ef-3cf55ab6939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Family'])[2]/preceding::button[1]</value>
+      <webElementGuid>a1204256-9b9c-4c71-b576-fde45b911217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance'])[3]/preceding::button[2]</value>
+      <webElementGuid>8255593e-ff88-4668-aafe-9d8641891653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/button</value>
+      <webElementGuid>3638e96d-1de7-46f1-8c22-92fba2f87837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Information' or . = 'Information')]</value>
+      <webElementGuid>1abac437-4608-4469-b465-36cd91268daf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload Attachment2_Button</name>
+   <tag></tag>
+   <elementGuidId>521e3549-3c2e-452a-8ca7-e4fc757e19cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.z-FlowVerticalPanel > div.z-FlowVerticalPanel.z-Margin-Top-10.z-AddMargin.z-MandatoryLabel > div.z-FlowVerticalPanel.z-MandatoryAttribute > div.z-FlowHorizontalPanel > form > div.fileUpload.GKIQDVXHOD > input[name=&quot;File&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[3]/div[4]/div/div/form/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7419e9ed-d090-4ccc-8eeb-5b041366b804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>bcf5ab48-4d19-4d25-88eb-630139d74d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-FileUpload upload</value>
+      <webElementGuid>21ab7ed9-fdda-4fe7-9335-0efbb07182bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>File</value>
+      <webElementGuid>b0447e7d-72d8-4725-bf27-9e50766cff31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-DialogBox fadeIn&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;dialogMiddle&quot;]/td[@class=&quot;dialogMiddleCenter&quot;]/div[@class=&quot;dialogMiddleCenterInner dialogContent&quot;]/div[@class=&quot;z-DialogBoxContent&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-ScrollPage&quot;]/div[@class=&quot;z-Scroll&quot;]/div[1]/div[@class=&quot;z-FlowVerticalPanel z-Panel&quot;]/div[2]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel z-Margin-Top-10 z-AddMargin z-MandatoryLabel&quot;]/div[@class=&quot;z-FlowVerticalPanel z-MandatoryAttribute&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/form[1]/div[@class=&quot;fileUpload GKIQDVXHOD&quot;]/input[@class=&quot;gwt-FileUpload upload&quot;]</value>
+      <webElementGuid>1da6d6fa-c085-4c26-9b5c-90708afc182a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='File'])[2]</value>
+      <webElementGuid>b3457d71-7bae-4d24-9e8e-d87692bf3d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[4]/div/div/form/div/input</value>
+      <webElementGuid>4d2ca391-b1ca-4fec-b1ed-01f3cce2af92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'file' and @name = 'File']</value>
+      <webElementGuid>5c515ad3-285b-411b-b6d4-2ae4d3bc3d1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Upload_Button</name>
+   <tag></tag>
+   <elementGuidId>0da7611c-e808-431b-9c19-a81de4bcfce6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.z-ImageButton.z-TableTreeItemImageButtonColumnValue.z-ImageButton-down-hovering > img.z-ImageButton-Image.z-TableTreeItemImageButtonColumnValue-Image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gwt-uid-459']/table/tbody/tr/td[4]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c7856fcf-8f41-4638-bfe8-709c97db4cdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/upload_dark.png</value>
+      <webElementGuid>e5e207f6-f827-489a-8025-13a232f9fd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-ImageButton-Image z-TableTreeItemImageButtonColumnValue-Image</value>
+      <webElementGuid>0745d731-38ac-45c9-b8b9-e820d1853c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gwt-uid-459&quot;)/table[@class=&quot;z-TreeItem-Visit z-TreeItem-Visit-odd z-TableTreeItemRowOdd z-TableTreeRow z-TableTreeItemSelected&quot;]/tbody[1]/tr[1]/td[@class=&quot;z-TableTreeCell z-TableTreeImageButtonCellContainer&quot;]/div[@class=&quot;z-ImageButton z-TableTreeItemImageButtonColumnValue z-ImageButton-down-hovering&quot;]/img[@class=&quot;z-ImageButton-Image z-TableTreeItemImageButtonColumnValue-Image&quot;]</value>
+      <webElementGuid>fe5cdf2d-8ee3-410c-a507-d1e501cb54f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gwt-uid-459']/table/tbody/tr/td[4]/div/img</value>
+      <webElementGuid>63322c41-e44c-48fc-9ab2-aa48f46e5c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/img</value>
+      <webElementGuid>46dba800-27f9-4b7b-b849-d0bd4dbcea59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/upload_dark.png']</value>
+      <webElementGuid>b70ca4b8-cf46-4fc1-b80f-67c29f4cdee0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

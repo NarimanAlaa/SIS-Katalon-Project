@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As admin I verify that user can create a person and add him as a Responsible family member for student</description>
+   <name>Add Non Resposible Family Member</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32bffc3b-615e-471d-bd66-ca902bbbbd65</testCaseGuid>
+</TestCaseEntity>

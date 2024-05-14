@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As admin I verify that user can edit the name, phone number and the address of student</description>
+   <name>Edit Student Information</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a52de7c1-1594-4e1f-9ad6-cf82b7aa8340</testCaseGuid>
+</TestCaseEntity>

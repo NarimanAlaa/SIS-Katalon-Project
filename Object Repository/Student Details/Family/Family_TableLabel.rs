@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Family_TableLabel</name>
+   <tag></tag>
+   <elementGuidId>02902c99-db95-4298-ae1e-f8d199e7dcad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.z-FieldLabel.z-TableTreeItemTextColumnValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[2]/following::div[31]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f53552b-f524-469e-81ec-945f406f3594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-FieldLabel z-TableTreeItemTextColumnValue</value>
+      <webElementGuid>8e615c71-3834-4a60-a90b-39892535a650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Family</value>
+      <webElementGuid>7b00a48f-0587-4af7-b85e-7a553e11c22e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel z-Workspace&quot;]/div[@class=&quot;zrl-FlexVertical&quot;]/div[@class=&quot;z-FlowVerticalPanel z-RoundedPanelFullWidth zrl-FlexUseAvailableVertical&quot;]/div[@class=&quot;cellTreeWidget&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;cellTreeItem cellTreeTopItem&quot;]/div[@class=&quot;cellTreeItem cellTreeItemImageValue cellTreeTopItemImageValue&quot;]/div[@class=&quot;cellTreeItemValue cellTreeOpenItem&quot;]/div[@class=&quot;z-TreeItem-PersonTypeLevel z-TableTreeRow z-TableTreeItemRowOdd&quot;]/div[@class=&quot;z-VertAlignMiddle z-TableTreeCell&quot;]/div[@class=&quot;z-FieldLabel z-TableTreeItemTextColumnValue&quot;]</value>
+      <webElementGuid>f02ba59d-66e1-4b33-b303-3691775bf80c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[2]/following::div[31]</value>
+      <webElementGuid>75786cba-3604-44d7-a9bc-0cdce4a25e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[2]/following::div[31]</value>
+      <webElementGuid>d9f293e8-3813-4dce-8972-566835c19317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsible'])[1]/preceding::div[3]</value>
+      <webElementGuid>46011fc7-3e28-4472-b5b3-e16c6c3fb51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Type'])[1]/preceding::div[5]</value>
+      <webElementGuid>5d8523e7-a54c-4b6c-be8c-08c50a55f987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>3080199c-f772-475c-ac54-4496577c29b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Family' or . = 'Family')]</value>
+      <webElementGuid>d6216372-306e-454a-9f67-26a0fef7c2a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

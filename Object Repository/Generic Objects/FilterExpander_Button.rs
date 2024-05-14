@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FilterExpander_Button</name>
+   <tag></tag>
+   <elementGuidId>4f7c999a-0336-427e-b9b3-2cfb1888c046</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div/div/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src = 'system/icons/disclosure_right.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.z-DisclosureIcon-Image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6a8673dd-bee2-481a-8ad9-1780c56dea58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/disclosure_right.png</value>
+      <webElementGuid>cfdcdbae-23c0-42f4-be02-89edc6876153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-DisclosureIcon-Image</value>
+      <webElementGuid>f63572a2-bda1-41fa-994b-ddb818369f15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[2]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[@class=&quot;z-DataView z-DataView-Selected&quot;]/div[2]/div[1]/div[3]/div[@class=&quot;z-FlowVerticalPanel noWrap zrl-FlexVertical z-Workspace&quot;]/div[1]/div[@class=&quot;z-DisclosurePanel z-DisclosurePanel-closed z-RoundedPanelFullWidth&quot;]/div[@class=&quot;header&quot;]/a[@class=&quot;headerAnchor&quot;]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-DisclosureIcon z-DisclosureIcon-down-hovering&quot;]/img[@class=&quot;z-DisclosureIcon-Image&quot;]</value>
+      <webElementGuid>06aab664-ddde-4ac4-b1f1-679ead4d8bb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/img</value>
+      <webElementGuid>a93e607c-152d-40c5-a303-7f8bcbd95dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/disclosure_right.png']</value>
+      <webElementGuid>1b700773-7dc8-45f0-9755-c12417ec6b90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

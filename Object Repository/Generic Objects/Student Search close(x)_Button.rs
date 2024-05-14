@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Student Search close(x)_Button</name>
+   <tag></tag>
+   <elementGuidId>53093920-a548-4504-99d9-bce58e3414f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/img[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ebcbdd50-18d8-4a64-8258-f4a5b14a77df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>system/icons/close_round.png</value>
+      <webElementGuid>cc8d1242-e408-4b25-815e-21300559c3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-NavigationPanelTabImage</value>
+      <webElementGuid>08605897-b24c-4f8d-8cc3-05f1c6e9ffc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;z-RootPanel z-ApplicationLoggedIn&quot;]/div[@class=&quot;z-WorkspaceHolder&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel&quot;]/div[@class=&quot;z-FlowVerticalPanel z-NavigationPanel&quot;]/div[@class=&quot;gwt-TabLayoutPanel&quot;]/div[2]/div[@class=&quot;z-FlowHorizontalPanel z-NavigationPanelTabBorder&quot;]/div[@class=&quot;z-FlowHorizontalPanel z-ScrollableTabPanel&quot;]/div[@class=&quot;z-FlowHorizontalPanel z-ScrollableTab&quot;]/div[@class=&quot;gwt-TabLayoutPanelTabs z-ScrollableTabs&quot;]/div[@class=&quot;gwt-TabLayoutPanelTab GKIQDVXH&quot;]/div[@class=&quot;gwt-TabLayoutPanelTabInner&quot;]/div[@class=&quot;z-FlowHorizontalPanel z-NavigationPanelTab&quot;]/img[@class=&quot;z-NavigationPanelTabImage&quot;]</value>
+      <webElementGuid>5fe970f4-93e6-47c7-8541-aa4afe374dc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+      <webElementGuid>cda894bf-0cb6-43ca-916e-800ab20ef14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'system/icons/close_round.png']</value>
+      <webElementGuid>a133983a-4b91-4e48-9e89-632351f82297</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
